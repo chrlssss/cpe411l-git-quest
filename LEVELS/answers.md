@@ -14,4 +14,6 @@ LEVEL 7 COMPLETE: I defeated the mini boss with git diff
 
 LEVEL 8 PR LINK: https://github.com/janjan090/cpe411l-git-quest/compare/main...chrlssss:cpe411l-git-quest:student-charles
 
-I AM ON MAIN
+LEVEL 8 PR LINK: https://github.com/janjan090/cpe411l-git-quest/compare/main...chrlssss:cpe411l-git-quest:student-charles
+
+LEVEL 9 COMPLETE: I fixed the merge conflict boss
