@@ -11,3 +11,5 @@ LEVEL 5 COMPLETE: I am on branch student-charles
 LEVEL 6 CHEST CODE: FOX-7
 
 LEVEL 7 COMPLETE: I defeated the mini boss with git diff
+
+LEVEL 8 PR LINK: https://github.com/janjan090/cpe411l-git-quest/compare/main...chrlssss:cpe411l-git-quest:student-charles
